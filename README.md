@@ -1,4 +1,6 @@
-Esteban Jose Adrian Castillo Molina 202300862 
-Ing en Sistemas
-Cambios realizados en HotFix 
-Esto se vera reflejado en el archivo Main
+Esteban Castillo
+README.md creado en develp
+Trabajado con GitFlow
+Cambio en el Feature/accounts 
+Esto se vera reflejado en develop al ser al que afecta 
+ahora editare este mismo mensaje para subirlo al main con un release llamado Version2
